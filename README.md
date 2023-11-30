@@ -1,6 +1,6 @@
 - I’m @harvhat33
 
- I'm just here to help out but submitting issues for various projects I follow and hopefully that helps them. 
+ I'm just here to help out by submitting issues for various projects I follow and hopefully that helps them. 
  I was 'harvat' but github wont let me log in with that ccount anymore, oh well.
 
 <!---
